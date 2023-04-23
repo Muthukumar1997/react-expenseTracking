@@ -1,0 +1,62 @@
+a:hover{
+    background-color: rgb(41, 199, 78);
+    
+
+ }
+
+.one1{
+  
+   margin-left: 100px;
+   border-radius: 5px;
+   position:absolute;
+   top: 50px !important;
+
+}
+.two1{
+
+    width: 570px !important;
+    margin-left: 180px !important;
+
+}
+.three1{
+    margin-right: 300px !important;
+    font-weight: bolder;
+    font-size: larger;
+
+}
+.four1{
+    margin-right: 300px !important;
+    font-weight: bolder;
+    font-size: larger;
+    
+}
+.five1{
+    margin-right: 270px !important;
+    font-weight: bolder;
+    font-size: larger;
+    
+    
+}
+.six1{
+    margin-right: 309px !important;
+    font-weight: bolder;
+    font-size: larger;
+    
+}
+.seven1{
+    margin-top: 40px;
+    margin-left: 150px !important;
+}
+.eigth1{
+    position: relative;
+    left: 720px;
+    top: 60px;
+   
+    font-weight: bolder;
+    font-size: 30px !important;
+
+}
+.nine1{
+    margin-top: 60px !important;
+}
+

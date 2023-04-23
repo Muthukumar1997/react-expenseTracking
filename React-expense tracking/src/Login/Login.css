@@ -1,0 +1,44 @@
+
+
+ a:hover{
+    background-color: rgb(41, 199, 78) !important;
+
+ }
+ .seven2{
+    margin-top: 100px !important;
+ }
+ .one2{
+
+    margin-left: 100px;
+    border-radius: 5px;
+    position:absolute;
+    top: 50px !important;
+ 
+ }
+ .two2{
+
+    width: 570px !important;
+    margin-left: 180px !important;
+
+}
+.three2{
+    margin-right: 360px !important;
+    font-weight: bolder;
+    font-size: larger;
+}
+.four2{
+    margin-right: 315px !important;
+    font-weight: bolder;
+    font-size: larger;
+}
+.five2{
+    font-weight: bolder;
+    font-size: 30px !important;
+    margin-left: 150px !important;
+}
+.six2{
+    width: 100px !important;
+    margin-left: 150px !important;
+    margin-top: 50px !important;
+    border-radius: 5px;
+}

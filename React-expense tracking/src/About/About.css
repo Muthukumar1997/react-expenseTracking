@@ -1,0 +1,128 @@
+
+.one3{
+ 
+    margin-left: 100px;
+    border-radius: 5px;
+    position: absolute;
+    top: 30px !important;
+    
+
+   
+ 
+ }
+ 
+ .four3{
+    width: 1600px;
+    
+    margin-left: 140px;
+
+ }
+
+ .two3{
+    margin-top: 120px !important;
+ }
+ .up{
+    background-color: rgb(41, 199, 78);
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 400px !important;
+    padding-right: 80 px !important;
+   
+    
+    
+ }
+ .upper{
+    /* background-color: rgb(41, 199, 78); */
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 80px !important;
+    padding-right: 80 px !important;
+    
+   
+    
+    
+ }
+ .upper1{
+    background-color: rgb(41, 199, 78);
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 100px !important;
+    padding-right: 120 px !important;
+    
+   
+    
+    
+ }
+ .upper2{
+    background-color: rgb(41, 199, 78);
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 97px !important;
+    padding-right: 120 px !important;
+    }
+ 
+ .down{
+    position: relative;
+    right: 10px;
+ }
+.page1{
+    margin-top: 70px;
+   
+}
+.login{
+    margin-top: 70px;
+   
+}
+.home{
+    margin-left: 460px !important;
+}
+#cars{
+    width: 280px;
+    height: 2px;
+}
+li{
+    margin-right: 30px !important;
+}
+.top{
+   width: 1000 px;
+    height: 560px;
+}
+
+
+
+.dro{
+    margin-left: 13px;
+    width: 240px !important;
+    
+}
+.row{
+    border: none !important;
+    
+   
+}
+.dro1{
+    margin-left: 101px;
+    width: 240px !important;
+    
+}
+.d1{
+    position: relative;
+    left: 100px !important;
+
+
+}
+.ds{
+    position: relative;
+    left: 100px !important;
+    margin-top: 20px;
+
+}
+.dc{
+    position: relative;
+   
+    top: 20px !important;
+}
+.title{
+    font-weight: bolder;
+}
+
